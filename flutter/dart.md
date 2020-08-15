@@ -21,3 +21,14 @@
 - [ ] Difference between Multithread and Asynchronous programming, practice  
 - [ ] Generators, Typedefs, Callable Classes, Annotation and Metadata, Comments 
 - [ ] Repetition 
+
+---
+
+### Bonus
+
+- [ ] Callbacks
+- [ ] Timer
+- [ ] I/O, writing pure Dart code
+- [ ] HashSet, HashMap
+- [ ] Sound Null Safety
+

@@ -52,4 +52,5 @@
 
 ### Bonus
 
-
+- [ ] JsonSerilizable, Dio, Retrofit, Build Runner
+- [ ] Writing and publishing your packages 

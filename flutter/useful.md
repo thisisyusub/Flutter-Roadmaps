@@ -34,6 +34,11 @@
 
 ---
 
+### Useful Packages
+- [ ] [Hive (Flutter Tutorial) – Lightweight & Fast NoSQL Database in Pure Dart](https://www.youtube.com/watch?v=R1GSrrItqUs&t=2212s)
+
+---
+
 ### Firebase
 - [ ] [How To Use Cloud Firestore in Flutter](https://medium.com/firebase-tips-tricks/how-to-use-cloud-firestore-in-flutter-9ea80593ca40)
 
@@ -48,3 +53,8 @@
  - [ ] [Cubit, a simple solution for app state management in Flutter](https://medium.com/flutterando/cubit-a-simple-solution-for-app-state-management-in-flutter-66ab5279ef73)
  
  
+ ### Building and Deploying APK
+ - [ ] [Flutter: Prepare App For Release | App Signing | Create JKS | 1.4](https://www.youtube.com/watch?v=nGvPNG-f1-o) 
+ - [ ] [Flutter: Publish App to PlayStore | Fully Explained Demo | 1.5 THE END](https://www.youtube.com/watch?v=qpruGmff5Fw)
+ - [ ] [Flutter: Android App Bundle Step By Step Guide](https://www.youtube.com/watch?v=dRbmjsqERVw)
+ - [ ] [Publishing a Flutter App to the Play Store (The Boring Flutter Development Show, Ep. 8.4)](https://www.youtube.com/watch?v=dR04ArAhxd4)

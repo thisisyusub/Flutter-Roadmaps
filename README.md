@@ -30,13 +30,11 @@
 - [ ] Flutter Basics Widgets 
 - [ ] Stateful and Stateless Widgets, Three Tree Structure – Widget, Element and Render Trees 
 - [ ] Input Fields 
-- [ ] Layouts – 1   
-- [ ] Layouts – 2 
-- [ ] Layout – 3 
+- [ ] Layouts – 1 (Column, Row, ListView, GridView, Stack, Table, Wrap, Padding, SizedBox, FractionallySizedBox, Container, Center, ConstrainedBox)
+- [ ] Layouts – 2 (IndexedStack, LayoutBuilder, LimitedBox, OverflowBox, IntrinsicHeight, IntrinsicWidth, Expanded, FittedBox, AspectRatio, Align)
 - [ ] Material Components 
 - [ ] Buttons, Dialogs, Alerts and Panels 
 - [ ] Scrolling 
-- [ ] Useful Widgets 
 - [ ] Cupertino-style Widgets 
 - [ ] Animations 
 - [ ] Navigation 

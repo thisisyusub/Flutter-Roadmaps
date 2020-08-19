@@ -41,6 +41,7 @@
 
 ### Firebase
 - [ ] [How To Use Cloud Firestore in Flutter](https://medium.com/firebase-tips-tricks/how-to-use-cloud-firestore-in-flutter-9ea80593ca40)
+- [ ] [Using Firestore as a backend to your Flutter app](https://www.youtube.com/watch?v=DqJ_KjFzL9I)
 
 ---
 

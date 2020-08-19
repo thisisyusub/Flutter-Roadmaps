@@ -3,7 +3,9 @@
 - [ ] [How to track screen transitions in Flutter with RouteObserver](https://medium.com/flutter-community/how-to-track-screen-transitions-in-flutter-with-routeobserver-733984a90dea)
 - [ ] [Advanced Flutter Layout — Flow](https://medium.com/flutter-community/advanced-flutter-layout-flow-32300bf3b7b3)
 - [ ] [A Guide to Using ScreenSize In Flutter — A More Readable Approach](https://medium.com/flutter-community/a-guide-to-using-screensize-in-flutter-a-more-readable-approach-901e82556195)
-- [ ] [Flutter: Push, Pop, Push](https://medium.com/@kanan.yusubov/has-recommended)
+- [ ] [Flutter: Push, Pop, Push](https://medium.com/flutter-community/flutter-push-pop-push-1bb718b13c31)
+- [ ] [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
+- [ ] [Flutter: The Advanced Layout Rule Even Beginners Must Know](https://medium.com/flutter-community/flutter-the-advanced-layout-rule-even-beginners-must-know-edc9516d1a2)
 
 ---
 
@@ -11,15 +13,18 @@
 - [ ] [Thread of Execution, Functions & Call Stack— Dart Under The Hood CH1](https://medium.com/flutter-community/thread-of-execution-functions-call-stack-dart-under-the-hood-ch1-c2e756504c)
 - [ ] [Dart Null Safety: The Ultimate Guide to Non-Nullable Types](https://www.youtube.com/watch?v=aZtjcbsdwTo&feature=youtu.be&fbclid=IwAR0qsU2nNljJGoSkMS0jCTnUL_bWXLvop3bIuttVMMiWSuCsgo0mJ1oRHxQ)
 - [ ] [Useful List methods in Dart](https://medium.com/flutter-community/useful-list-methods-in-dart-6e173cac803d)
+- [ ] [Dart asynchronous programming: Isolates and event loops](https://medium.com/dartlang/dart-asynchronous-programming-isolates-and-event-loops-bffc3e296a6a)
+- [ ] [What are sync*, async*, yield and yield* in Dart?](https://medium.com/@jelenaaa.lecic/what-are-sync-async-yield-and-yield-in-dart-defe57d06381)
 
 ---
 
-### SOLID, Design Patterns
+### SOLID, Design Patterns, Tips
 
 - [ ] [Design Patterns in Flutter Series](https://medium.com/flutter-community/flutter-design-patterns-0-introduction-5e88cfff6792)
 - [ ] [Creational Design Patterns in Flutter](https://dart.academy/creational-design-patterns-for-dart-and-flutter-factory-method/?fbclid=IwAR3WoA8QonjNeOfq1G8SaLQBqYZbEHf5bbLgLO9zudeLwQGy2ohp5hqweDk)
 - [ ] [Generics in Dart and Flutter](https://dart.academy/generics-in-dart-and-flutter/)
 - [ ] [S.O.L.I.D The first 5 principles of Object Oriented Design with Dart](https://medium.com/flutter-community/s-o-l-i-d-the-first-5-principles-of-object-oriented-design-with-dart-f31d62135b7e)
+- [ ] [Flutter: Best Practices and Tips](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5)
 
 ---
 

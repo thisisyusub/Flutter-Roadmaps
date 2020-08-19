@@ -1,5 +1,9 @@
 ### UI and FLutter 
 - [ ] [Flutter App Lifecycle](https://medium.com/pharos-production/flutter-app-lifecycle-4b0ab4a4211a)
+- [ ] [How to track screen transitions in Flutter with RouteObserver](https://medium.com/flutter-community/how-to-track-screen-transitions-in-flutter-with-routeobserver-733984a90dea)
+- [ ] [Advanced Flutter Layout — Flow](https://medium.com/flutter-community/advanced-flutter-layout-flow-32300bf3b7b3)
+- [ ] [A Guide to Using ScreenSize In Flutter — A More Readable Approach](https://medium.com/flutter-community/a-guide-to-using-screensize-in-flutter-a-more-readable-approach-901e82556195)
+- [ ] [Flutter: Push, Pop, Push](https://medium.com/@kanan.yusubov/has-recommended)
 
 ---
 

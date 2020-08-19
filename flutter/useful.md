@@ -1,4 +1,5 @@
 ### UI and FLutter 
+- [ ] [How Flutter renders Widgets](https://www.youtube.com/watch?v=996ZgFRENMs)
 - [ ] [Flutter App Lifecycle](https://medium.com/pharos-production/flutter-app-lifecycle-4b0ab4a4211a)
 - [ ] [How to track screen transitions in Flutter with RouteObserver](https://medium.com/flutter-community/how-to-track-screen-transitions-in-flutter-with-routeobserver-733984a90dea)
 - [ ] [Advanced Flutter Layout — Flow](https://medium.com/flutter-community/advanced-flutter-layout-flow-32300bf3b7b3)

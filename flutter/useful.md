@@ -5,8 +5,11 @@
 - [ ] [A Guide to Using ScreenSize In Flutter — A More Readable Approach](https://medium.com/flutter-community/a-guide-to-using-screensize-in-flutter-a-more-readable-approach-901e82556195)
 - [ ] [Flutter: Push, Pop, Push](https://medium.com/flutter-community/flutter-push-pop-push-1bb718b13c31)
 - [ ] [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
-- [ ] [Flutter: The Advanced Layout Rule Even Beginners Must Know](https://medium.com/flutter-community/flutter-the-advanced-layout-rule-even-beginners-must-know-edc9516d1a2)
-
+- [ ] [Flutter: The Advanced Layout Rule Even Beginners Must Know](https://medium.com/flutter-community/flutter-the-advanced-layout-rule-even-beginners-must-know-edc9516d1a2)\
+- [ ] [Layout Explorer](https://www.youtube.com/watch?v=Jakrc3Tn_y4)
+- [ ] [Flutter Europe: Optimizing your Flutter App](https://www.youtube.com/watch?v=vVg9It7cOfY&t=1766s)
+- [ ] [Navigator and Routes and Transitions... Oh, My! - Simon Lightfoot | Flutter Europe](https://www.youtube.com/watch?v=4CYTTW6PMoc&list=PLSfIzlAv6WL20hw5KbyiEW5cxw8rkD6un&index=3)
+- [ ] [Implementing complex UI with Flutter - Marcin Szałek | Flutter Europe](https://www.youtube.com/watch?v=FCyoHclCqc8&list=PLSfIzlAv6WL20hw5KbyiEW5cxw8rkD6un&index=10)
 ---
 
 ### Dart
@@ -34,6 +37,11 @@
 
 ---
 
+### Testing
+- [ ] [Testing Flutter Applications - Rafał Ślósarz | Flutter Europe](https://www.youtube.com/watch?v=vl0CbG_-Ny8&list=PLSfIzlAv6WL20hw5KbyiEW5cxw8rkD6un&index=16)
+
+---
+
 ### Useful Packages
 - [ ] [Hive (Flutter Tutorial) – Lightweight & Fast NoSQL Database in Pure Dart](https://www.youtube.com/watch?v=R1GSrrItqUs&t=2212s)
 
@@ -52,7 +60,8 @@
  - [ ] [Understanding Provider in Diagrams — Part 2: Basic Providers](https://medium.com/flutter-community/understanding-provider-in-diagrams-part-2-basic-providers-1a80fb74d4e7)
  - [ ] [Understanding Provider in Diagrams — Part 3: Architecture](https://medium.com/flutter-community/understanding-provider-in-diagrams-part-3-architecture-a145e4fbbde1)
  - [ ] [Cubit, a simple solution for app state management in Flutter](https://medium.com/flutterando/cubit-a-simple-solution-for-app-state-management-in-flutter-66ab5279ef73)
- 
+ - [ ] [Everything you need to know about Provider - Rémi Rousselet | Flutter Europe](https://www.youtube.com/watch?v=BulIREvHBWg&list=PLSfIzlAv6WL20hw5KbyiEW5cxw8rkD6un&index=9)
+ - [ ] [Bloc Library: Basics & Beyond - Felix Angelov | Flutter Europe](https://www.youtube.com/watch?v=knMvKPKBzGE&list=PLSfIzlAv6WL20hw5KbyiEW5cxw8rkD6un&index=21)
  
  ### Building and Deploying APK
  - [ ] [Flutter: Prepare App For Release | App Signing | Create JKS | 1.4](https://www.youtube.com/watch?v=nGvPNG-f1-o) 

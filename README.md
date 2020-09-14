@@ -97,6 +97,9 @@
 
 ---
 
+### Data Structures
+- [ ] [Everything you need to know about tree data structures](https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/)
+
 ### Useful tools and functionalities
 - [ ] [VS Code Extensions Every FLUTTER Developer Should Have + Bonus Theme & Fonts](https://www.youtube.com/watch?v=VHhksMa2Ffg&fbclid=IwAR1nrm9p5p5kZMMI0zLqjAL7djnI7GQoGQZ3uomY48iQ5sQ4WlnlX7Xmr_s)
 - [ ] [Github Actions for Flutter](https://medium.com/mobile-development-group/github-actions-for-flutter-cf02923d7b5d)
